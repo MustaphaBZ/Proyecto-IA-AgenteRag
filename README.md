@@ -11,7 +11,7 @@ Creation of a RAG (Retrieval-Augmented Generation) agent for automated education
 
 ## Project Paper
 You can find the detailed project paper (in Spanish) here:  
-[Download PDF](AQUI_IRA_EL_PDF)
+[Download PDF](PaperAgenteRAG_Lautaro_Mustapha.pdf)
 
 ---
 
