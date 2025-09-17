@@ -1,6 +1,6 @@
 # Final AI Project: RAG Agent for Automated Educational Quiz Generation
 
-**Authors:** 
+**Authors:** MUSTAPHA BOULEILI ZNASNI & LAUTARO FLEITAS 
 
 ---
 
@@ -17,6 +17,6 @@ You can find the detailed project paper (in Spanish) here:
 
 ## Demo
 Watch the demo video:  
-[YouTube Link](PONGO_EL_LINK_DEL_VIDEO)  
+[YouTube Link](https://youtu.be/3gnfFsQaTyA)  
 
 
