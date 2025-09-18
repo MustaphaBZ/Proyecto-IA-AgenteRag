@@ -1,6 +1,6 @@
 # Final AI Project: RAG Agent for Automated Educational Quiz Generation
 
-**Authors:** MUSTAPHA BOULEILI ZNASNI & LAUTARO FLEITAS 
+**Authors:** [MUSTAPHA BOULEILI ZNASNI](https://github.com/MustaphaBZ) & [LAUTARO FLEITAS](https://github.com/lfleitas22) 
 
 ---
 
